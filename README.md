@@ -1,3 +1,5 @@
+[![Lint Code Base](https://github.com/MCjasiux/Spring_IOZeta/actions/workflows/super-linter.yml/badge.svg)](https://github.com/MCjasiux/Spring_IOZeta/actions/workflows/super-linter.yml)
+
 To run this application, you will need to set up a local postgres SQL 
 database and create a database and user in it according to the file:
 <h5><strong><code>application.properties</code></strong></h5>
