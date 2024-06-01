@@ -17,4 +17,3 @@ spring.datasource.password=kopyto
 the last step is to configure java for the project as 17, and run the main function in the file:
 
 <h5><strong><code>SpringIoZetaApplication.java</code></strong></h5>
-
